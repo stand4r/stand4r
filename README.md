@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">A Python developer from Samara</h3>
 
-- 🔭 I’m currently working on [RyScribe](https://github.com/stand4r/PyScribe)
+- 🔭 I’m currently working on [PyScribe](https://github.com/stand4r/PyScribe)
 
 - 🌱 I’m currently learning **Fast API, SQL, PyQt5**
 
